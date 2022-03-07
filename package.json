@@ -1,0 +1,22 @@
+{
+  "name": "nwt-shop",
+  "version": "1.0.0",
+  "description": "mern nwt webshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedaJakic/NWT-Shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FedaJakic/NWT-Shop/issues"
+  },
+  "homepage": "https://github.com/FedaJakic/NWT-Shop#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
